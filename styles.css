@@ -1,9 +1,9 @@
-.fourth {
-  width: 25%;
+ul li {
+ list-style-type: square;
 }
 
-ul li {
- list-style-type: square; 
+.third {
+  width: 33%;
 }
 
 a.btn {
